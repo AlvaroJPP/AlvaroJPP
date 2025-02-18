@@ -1,9 +1,6 @@
 
 ## Olá! Eu sou Álvaro Paixão 👨🏽‍💻
 
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-paix%C3%A3o-26855522b/)
-
 ### Estudante de Analise e Desenvolvimento de Sistemas da Faculdade UNAMA em Belem do Pará.👨‍🎓
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALVAROJPP&show_icons=true&theme=ocean_dark)
