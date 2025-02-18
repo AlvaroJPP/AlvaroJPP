@@ -1,17 +1,14 @@
 
 ## Olá! Eu sou Álvaro Paixão 👨🏽‍💻
 
-[![Blog](https://img.shields.io/badge/alvarojppz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alvarojppz@gmail.com&su=Olá,%20tudo%20bem?%20Hello,%20how%20are%20you?%20你好，你好吗？)
-
-
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-paix%C3%A3o-26855522b/)
 
-### Eu sou atualmente Estudante de Analise e Desenvolvimento de Sistemas da Faculdade UNAMA em Belem do Pará.👨‍🎓
+### Estudante de Analise e Desenvolvimento de Sistemas da Faculdade UNAMA em Belem do Pará.👨‍🎓
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALVAROJPP&show_icons=true&theme=ocean_dark)
 
-## Eu atualmente pratico e me Desenvolvo nessas Tecnologias<br/> 
+## Eu atualmente pratico essas Tecnologias<br/> 
 
 <div style = "display: inline_block">
 <img  alt = "HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
