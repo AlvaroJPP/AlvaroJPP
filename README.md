@@ -24,11 +24,11 @@
 <div style="display: flex; align-items: flex-start; padding: 10px;">
   <img src="https://i.imgur.com/CKnijl4.jpg" alt="Minha Imagem" width="200" height="250" style="border: 1px solid black;">
   <div style="margin-left: 10px;">
-    <h3 style="margin: 0;">
+    <h1 style="margin: 0;">
       Calculadora 
       <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="vertical-align: middle;">
-    </h3>
-    <h2 style="margin-top: 5px;">Meu primeiro projeto em desenvolvimento em Java baseado no JDK da versão 17.</p>
+    </h1>
+    <h3 style="margin-top: 5px;">Meu primeiro projeto em desenvolvimento em Java baseado no JDK da versão 17.</p>
   </div>
 </div>
 
