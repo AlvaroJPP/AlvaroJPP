@@ -27,8 +27,7 @@
     <h1 style="margin: 0;">
       Calculadora 
       <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="vertical-align: middle;">
-    </h1>
-    <h3 style="margin-top: 5px;">Meu primeiro projeto em desenvolvimento em Java baseado no JDK da versão 17.</p>
+    </h1><h3 style="margin-top: 5px;">Meu primeiro projeto em desenvolvimento em Java baseado no JDK da versão 17.</p>
   </div>
 </div>
 
